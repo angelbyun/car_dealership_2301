@@ -4,7 +4,7 @@ class Car
                     :payment,
                     :length
 
-    def initialize (make_model, monthly_payment, loan_length)
+    def initialize(make_model, monthly_payment, loan_length)
         @make   = make_model
         @model  = make_model
         @payment= monthly_payment
