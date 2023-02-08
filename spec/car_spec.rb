@@ -43,4 +43,5 @@ RSpec.describe Car do
 
     expect(car.color).to eq("blue")
   end
+
 end
